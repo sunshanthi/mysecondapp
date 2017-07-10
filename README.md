@@ -1,2 +1,0 @@
-# mysecondapp
-mysecondapp
